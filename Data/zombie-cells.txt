@@ -1,0 +1,36 @@
+This Halloween, the zombies you should be worried about are your own cells. Senescent cells, often called ‘zombie’ cells, are dysfunctional cells that have stopped dividing but don't die off as they should. As these cells accumulate with age, they secrete harmful chemicals that can damage nearby healthy cells and contribute to various health issues, including the age-related deterioration of your skin.
+But here's the fascinating part: getting rid of these cells might slow or reverse aging. So, why exactly are they called zombie cells, and what makes them so central to anti-aging research?
+01
+What are zombie cells?
+When cells become old or damaged, they stop replicating and either enter a phase called senescence or undergo apoptosis (cell death) and are reabsorbed by the body's cleaners, phagocytes. The cells that enter senescence refuse to die, rendering them senescent, or zombie, cells. As the name suggests, these cells release abnormal signals to nearby cells that can induce senescence in neighboring cells.
+Where do zombie cells come from?
+The biological purpose of cellular senescence is to prevent further replication after a cell experiences excessive damage or stress. Here are some of the main varieties of senescence, each with unique causes. [1]
+Replicative: When a cell has reached its maximum number of cell divisions and should no longer replicate, often due to telomere shortening, it can enter senescence. This is the classic senescing process.
+Oncogene-Induced: Oncogenes are genes responsible for cell replication. When these genes are activated or overexpressed, they allow for higher levels of cell proliferation than optimal. To prevent a tumor, the cell activates two tumor-suppressing pathways; these pathways also stimulate cellular senescence.
+Stress-Induced: Different stressors, such as oxidizing agents and free radicals, can cause single-stranded breaks (SSBs) in a cell's DNA. This actuates a DNA damage response, triggering a signaling pathway that prematurely sends healthy cells into senescence.[2]
+Irradiation-Induced: Another stressor that can damage DNA is UV radiation. Radiation ionizes the DNA nucleotides and is one of the primary sources of cellular senescence in the skin. It’s one of the reasons the skin contains such a high density of zombie cells. [3]
+How do zombie cells work?
+Zombie cells want to get caught. The entire purpose of the senescence state is to prevent further cell replication and alert the immune system to clear the zombie cells out. They attempt to communicate with the immune system by excreting inflammatory factors and utilizing cellular signaling. Ideally, the body reacts by sending specialized immune cells called natural killer cells to clear them out.[4]
+02
+How Do Zombie Cells Play a Part In Aging?
+Unfortunately, as our immune system weakens and becomes less diligent with age, the slow build-up of these senescent cells and the inflammatory signaling can backfire and accelerate aging in two ways:
+Inflammation
+As the immune system becomes less efficient at clearing away zombie cells, they are left to linger and secrete harmful inflammatory factors, called senescence-associated secretory phenotype (SASP), resulting in chronic inflammation. [3] While inflammation is often used to heal the body, chronic levels of inflammatory cytokines can lead to blood clots, neurological disorders, and tumors. Chronic inflammation has a hand in several age-related diseases, including Alzheimer's, heart disease, cancer, and diabetes. [5]
+Stem Cell Exhaustion
+Through these inflammatory signaling factors, senescent cells start influencing neighboring cells towards senescence. Impressionable stem cells are especially affected, often becoming damaged or falling into senescence. Senescent cells are also able to disrupt the joint network of these cells; this impedes cellular communication, structural integrity, cell growth, etc.
+Through these means, zombie cells can interfere with stem cell function and growth and disrupt the overall balance of a tissue. Stem cell exhaustion is a crucial contributor to aging and can eventually lead to organ dysfunction. [2]
+03
+What do zombie cells mean for your skin health?
+Being our most exposed organ, our skin experiences a lot of DNA damage from UV exposure. Sun-damaged skin leads to stress-induced senescence, activating the DNA damage response and prematurely sending our cells into senescence.[3] This accumulation of senescent cells in the skin leads to a weakened skin barrier, which can cause visible signs of aging, such as sagging and wrinkles. Worse than that, it compromises your body’s immune system and puts it at a higher risk of chronic inflammation.[6]
+Can You Get Rid of Zombie Cells?
+Luckily, a class of molecules called “senotherapeutics” can prevent the accumulation of and clear away zombie cells. This class of molecules has shown promising effects on preventing and reversing the aging process by reducing the senescent burden in the body. A 2019 study determined that senotherapeutic molecules can ease and occasionally reverse several age-related illnesses, including Alzheimer’s disease! [7] Senotherapeutic molecules have shown great potential in the longevity sciences, but what are their specific implications on skin longevity?
+04 OS-01 As a Senotherapeutic Molecule
+The OS-01 peptide is not just any senotherapeutic molecule; it’s a highly effective one designed for optimal penetration in the skin when applied topically. In lab tests, the OS-01 peptide effectively reduced zombie cells in human skin samples by up to 50%. [8] It does this by blocking SASP, the inflammatory signals that induce neighboring cells into senescence, effectively containing the spread of senescence. This allows your immune system time to catch up and the overall senescent load to be reduced over time. By reducing the senescent burden in skin, the OS-01 peptide is scientifically proven to reverse skin’s biological age.[8]
+Found in our topical supplements, OS-01 FACE, OS-01 EYE, and OS-01 BODY, and our SPFs, OS-01 FACE SPF and OS-01 BODY SPF, the OS-01 peptide helps improve skin barrier function and combat both the visible and invisible signs of skin aging.[9]
+Related Products
+
+Key Takeaways:
+The biological purpose of cellular senescence is to prevent further replication after a cell experiences excessive damage. DNA damage response pathways, or tumor suppressant pathways, can prematurely create a zombie cell.
+Zombie cells employ cellular signaling by excreting inflammatory factors to alert the immune system to clear them out. When immune function experiences age-related decline, these senescent attributes can lead to chronic inflammation and stem cell exhaustion.
+Senotherapeutic molecules have shown promising effects on preventing and reversing aging by reducing the senescent burden in the body.
+The OS-01 peptide is a highly effective and safe senotherapeutic molecule designed to keep your skin healthier for longer.
